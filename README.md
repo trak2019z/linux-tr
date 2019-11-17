@@ -1,1 +1,1 @@
-Cały zestaw plików: sql + php + docker compose
+### Pobieramy cala paczke###
